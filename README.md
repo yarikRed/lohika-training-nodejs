@@ -1,6 +1,9 @@
 # lohika-training-nodejs
 Nodejs training course
 
+### Run project
+- `npm start`
+
 ## 1. Homework #1:
 - Create the app.js file with the server example (may be copied from the slides) which accepts requests and responds with “Hellow world!” message to all requests.
   >	- server on port APP_PORT which responds with “Hello world!” message to all requests.
