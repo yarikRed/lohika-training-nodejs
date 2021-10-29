@@ -16,3 +16,19 @@ Nodejs training course
 - When server is up – log a message: `Server is listening on port <PORT>. Env is <ENV>.` Use the logger created in a separate file which will use console methods for now
 	
 	> - log a message `Server is listening on port <PORT>. Env is <ENV>.` Using the imported logger (from separate file)
+
+## 2. Homework #2:
+- Migrate to typescript
+
+- Create server.ts with couple of routes
+	> - Use different http methods
+	> - Implement extract of the request body
+
+- Add error handlers (can be done in express server)
+	> - Unhandled rejection
+	> - Uncaught exception
+
+- Add logger which would also log request details (can be done in express server)
+	> - Update logger by using vendor lib instead of console
+	> - Log request details (request id, url, params)
+	> - Implement at least one transport (can be to the file) *
