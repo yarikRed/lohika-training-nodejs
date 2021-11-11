@@ -2,7 +2,9 @@
 Nodejs training course
 
 ### Run project
-- `npm start`
+- `npm start` - for start project;
+- `npm run-script build` - for build project;
+
 
 ## 1. Homework #1:
 - Create the app.js file with the server example (may be copied from the slides) which accepts requests and responds with “Hellow world!” message to all requests.
